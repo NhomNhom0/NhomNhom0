@@ -16,7 +16,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 ## 🛠️ Tools
 
 <p align=center>
- <kbd>
+ <kbd align=center>
       <kbd>Operating Sytem</kbd>
       <br>
       <br>
