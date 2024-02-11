@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 200></picture>
 
 As an AI student, I dive into a blend of computer science, math, and cognitive psychology. I code, experiment with algorithms, and explore machine learning and robotics. I'm driven by curiosity and ethics, aiming to create responsible AI solutions that benefit society. My goal is to solve real-world problems and innovate for a better future.
 
