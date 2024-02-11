@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
-<div style="float:right; margin-left:10px;">
+<div style="float:right; margin-left:10px; width: 250px; height: auto;">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </div>
 
