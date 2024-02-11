@@ -16,8 +16,8 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 ## 🛠️ Tools
 
 <p align=center>
- <kbd align=center>
-      <kbd>Operating Sytem</kbd>
+ <kbd>
+      <kbd align=center>Operating Sytem</kbd>
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
