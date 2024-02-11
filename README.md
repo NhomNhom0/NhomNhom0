@@ -90,7 +90,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 
 <br/>
 
-### 📬 Contact
+## 📬 Contact
 
 <p align=center>
     <a href="https://github.com/NhomNhom0" target="_blank">
