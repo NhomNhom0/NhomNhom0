@@ -11,7 +11,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 
 * 🌍  I'm based in Ha Noi, VietNam
 * ✉️  You can contact me at [phingoc.nhomnhom@gmail.com](mailto:phingoc.nhomnhom@gmail.com)
-* 🧠  I'm learning at [FPT University](https://daihoc.fpt.edu.vn/)
+* 🏫  I'm learning at [FPT University](https://daihoc.fpt.edu.vn/)
 
 ## 🛠️ Tools
 
