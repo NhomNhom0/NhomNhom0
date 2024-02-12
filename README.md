@@ -10,8 +10,8 @@
 As an AI student, I dive into a blend of computer science, math, and cognitive psychology. I code, experiment with algorithms, and explore machine learning and robotics. I'm driven by curiosity and ethics, aiming to create responsible AI solutions that benefit society. My goal is to solve real-world problems and innovate for a better future.
 
 * 🌍  I'm based in Ha Noi, VietNam
-* ✉️  You can contact me at [phingoc.nhomnhom@gmail.com](mailto:phingoc.nhomnhom@gmail.com)
 * 🏫  I'm learning at [FPT University](https://daihoc.fpt.edu.vn/)
+* ✉️  You can contact me at [phingoc.nhomnhom@gmail.com](mailto:phingoc.nhomnhom@gmail.com)
 
 ## 🛠️ Tools
 
