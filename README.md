@@ -32,7 +32,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
-        <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
+        <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="./assets/markdown.png" /></a>
     </kbd>
       <br>
     <kbd>
@@ -41,10 +41,10 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
       <br>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="./assets/pandas.svg" /></a>
       <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
       <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
-      <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
+      <a href="https://opencv.org/" target="_blank"><img width="30px" src="./assets/opencv.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -65,7 +65,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="./assets/bash.svg" /></a>
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
     <kbd>
@@ -93,11 +93,11 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 
 <p align=center>
     <a href="https://github.com/NhomNhom0" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
+        <img width="50px" src="./assets/github.png" alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/phingoc/" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+        <img width="50px" src="./assets/linkedin.png" alt=linkedin style="margin-bottom: 5px;" />
     <a href="mailto:phingoc.nhomnhom@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+        <img width="50px" src="./assets/gmail.png" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
