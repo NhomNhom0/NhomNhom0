@@ -20,7 +20,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
       <kbd align=center>Operating Sytem</kbd>
       <br>
       <br>
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="./assets/icons8-windows-11.svg" /></a>
         <a href="https://pop.system76.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
     </kbd>
       <br>
