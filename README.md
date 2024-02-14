@@ -85,8 +85,14 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 ## 📈 Github Profile Stats
 
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NhomNhom0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="NhomNhom0's Stats">
+    <a href="https://github.com/NhomNhom0">
+        <img height="180em" src="https://streak-stats.demolab.com?user=NhomNhom0&mode=weekly&theme=blueberry&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhomNhom0&show_icons=true&rank_icon=github&count_private=true&hide_border=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhomNhom0&hide_border=true&layout=donut&theme=blueberry"/>
+    </a>
 </p>
+
+
 
 
 ## 📬 Contact
