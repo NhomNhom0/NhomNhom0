@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Phi Ngoc Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=6000&pause=1000&color=40A2E3&center=true&vCenter=true&random=false&width=500&height=50&lines=Computer+Science+Major+💻;Artificial+Intelligence+Specialized+🤖;Always+learning+new+things+🧠" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=6000&pause=1000&color=40A2E3&center=true&vCenter=true&random=false&width=500&height=50&lines=Computer+Science+Major+💻;Artificial+Intelligence+Specialization+🤖;Always+learning+new+things+🧠" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
