@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Phi Ngoc Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=6000&pause=1000&color=40A2E3&center=true&vCenter=true&random=false&width=500&height=50&lines=Artificial+Intelligence+Student+🤖;Computer+Science+Learner+💻;Always+learning+new+things+🧠" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=6000&pause=1000&color=40A2E3&center=true&vCenter=true&random=false&width=500&height=50&lines=Artificial+Intelligence+Student+🤖;Computer+Science+Major+💻;Always+learning+new+things+🧠" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
@@ -31,6 +31,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
         <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
+        <a href="https://isocpp.org/" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="./assets/markdown.png" /></a>
     </kbd>
@@ -39,6 +40,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
+      <a href="https://pytorch.org/" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" /></a>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="./assets/pandas.svg" /></a>
