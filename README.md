@@ -7,7 +7,11 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px height = 220px></picture>
 
-As an AI student, I dive into a blend of computer science, math, and cognitive psychology. I code, experiment with algorithms, and explore machine learning and robotics. I'm driven by curiosity and ethics, aiming to create responsible AI solutions that benefit society. My goal is to solve real-world problems and innovate for a better future.
+Hi, I'm Ngoc Tran (NhomNhom0).
+
+I'm an AI student and computer science enthusiast based in Ha Noi, Vietnam. My academic journey intertwines computer science, mathematics, and cognitive psychology, fueling my exploration into machine learning, robotics, and algorithm development. I work on a variety of projects that range from developing innovative deep learning models to delving into system design and low-level programming challenges.
+
+Driven by curiosity and guided by a commitment to ethical and responsible technology, I strive to solve real-world problems with creative solutions. As I continue my studies at FPT University, I remain dedicated to advancing AI in ways that benefit society and shape a better future.
 
 * 🌍  I'm based in Ha Noi, VietNam
 * 🏫  I'm learning at [FPT University](https://daihoc.fpt.edu.vn/)
@@ -84,7 +88,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
 
 <br/>
 
-## 📈 Github Profile Stats
+<!-- ## 📈 Github Profile Stats
 
 <p align="center">
     <a href="https://github.com/NhomNhom0">
@@ -92,7 +96,7 @@ As an AI student, I dive into a blend of computer science, math, and cognitive p
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhomNhom0&show_icons=true&rank_icon=github&hide_border=true&theme=blueberry&include_all_commits=true&&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhomNhom0&hide_border=false&layout=donut&theme=blueberry"/>
     </a>
-</p>
+</p> -->
 
 
 
