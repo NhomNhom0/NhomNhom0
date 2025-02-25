@@ -53,6 +53,12 @@ Driven by curiosity and guided by a commitment to ethical and responsible techno
       <a href="https://opencv.org/" target="_blank"><img width="30px" src="./assets/opencv.svg" /></a>
     </kbd>
     <kbd>
+      <kbd>Web Development & APIs</kbd>
+      <br>
+      <br>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
+    </kbd>
+    <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
