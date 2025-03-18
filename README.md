@@ -78,6 +78,7 @@ Driven by curiosity and guided by a commitment to ethical and responsible techno
       <br>
       <br>
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="./assets/bash.svg" /></a>
+        <a href="https://www.zsh.org/" target="_blank"><img width="27px" src="https://github.com/Zsh-art/logo/blob/main/png/color_vertical_icon.png?raw=true" /></a>
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
     <kbd>
